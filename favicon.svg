@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="VK monogram icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c8f6f" />
+      <stop offset="100%" stop-color="#1570ef" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#bg)" />
+  <text
+    x="32"
+    y="38"
+    text-anchor="middle"
+    font-size="23"
+    font-family="Arial, sans-serif"
+    font-weight="700"
+    fill="#ffffff"
+  >
+    VK
+  </text>
+</svg>
